@@ -9,8 +9,15 @@ The focus is on **KPIs, trends, efficiency, and comparison**, rather than raw op
 ---
 
 ## 🔗 Live Dashboard
-👉 **View Power BI Dashboard:**  
-https://app.powerbi.com/view?r=eyJrIjoiNWYwODI5MjEtNjdiMi00MGExLWFjODQtNGZiMTkyNjlmYjZmIiwidCI6IjIxZGEzZTE2LTU2NjgtNDNhYy04MThmLTBjYzU4YzVlZmFmNCJ9
+* **Live Power BI Dashboard:** [Dashboard View](https://app.powerbi.com/view?r=eyJrIjoiNWYwODI5MjEtNjdiMi00MGExLWFjODQtNGZiMTkyNjlmYjZmIiwidCI6IjIxZGEzZTE2LTU2NjgtNDNhYy04MThmLTBjYzU4YzVlZmFmNCJ9)
+  
+---
+
+## 🖼️ Screenshots
+
+### 📌 Dashboard View
+
+![Dashboard View](https://github.com/Sanketkshirsagar05/PowerBI-Executive-Marketing-Performance-Dashboard/blob/main/Dashboard%20Screenshot.png)
 
 ---
 
