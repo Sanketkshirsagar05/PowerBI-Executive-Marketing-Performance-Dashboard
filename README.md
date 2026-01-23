@@ -8,6 +8,12 @@ The focus is on **KPIs, trends, efficiency, and comparison**, rather than raw op
 
 ---
 
+## 🔗 Live Dashboard
+👉 **View Power BI Dashboard:**  
+https://app.powerbi.com/view?r=eyJrIjoiNWYwODI5MjEtNjdiMi00MGExLWFjODQtNGZiMTkyNjlmYjZmIiwidCI6IjIxZGEzZTE2LTU2NjgtNDNhYy04MThmLTBjYzU4YzVlZmFmNCJ9
+
+---
+
 ## 🎯 Key Objectives
 - Track overall marketing performance
 - Compare revenue vs marketing spend trends
